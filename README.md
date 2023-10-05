@@ -2,4 +2,4 @@
 
 Hjemmeoppgave: Ordbok
 
-Link til demo: 
+Link til demo: https://theael.github.io/hjemmeoppgave/
